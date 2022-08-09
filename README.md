@@ -1,4 +1,4 @@
-
+<img src="https://github.com/GeorgiosIoannouCoder/GeorgiosIoannouCoderPublic/blob/main/Georgios_Ioannou_README.gif"/>
 
 ## A bit more about me:
 
