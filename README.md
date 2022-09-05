@@ -28,32 +28,33 @@ me.say_hi()
 ## 👨‍💻 Skills & Technologies
 
 <p align="center">
-     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-     <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-     <br/>
-     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-     <img src="https://img.icons8.com/color/48/000000/flask.png"/>
-     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-     <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
-     <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/ alt="Python">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/ alt="C++">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/ alt="Java">
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/ alt="Javascript">
+    <img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/ alt="Visual Basic">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/ alt="MySQL">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png"/ alt="PostgreSQL">
+    <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/ alt="Anaconda">
+    <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/ alt="Jupyter Notebook">
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/ alt="Linux">
+    <br />
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/ alt="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/ alt="CSS3">
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/ alt="Node.js">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/ alt="React Native">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/ alt="Bootstrap">
+    <img src="https://img.icons8.com/color/48/000000/flask.png"/ alt="Flask">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/ alt="Postman" width="43" height="43">
+    <img src="https://img.icons8.com/color/48/000000/git.png"/ alt="Git">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png"/ alt="GitHub">
+    <img src="https://img.icons8.com/color/48/000000/heroku.png"/ alt="Heroku">
 </p>
 
 ## 💻 GitHub Pages
 
 <p align="center">
-     <a href="https://georgiosioannoucoder.github.io/">https://georgiosioannoucoder.github.io/</a>
+    <a href="https://georgiosioannoucoder.github.io/">https://georgiosioannoucoder.github.io/</a>
 </p>
 
 <!--### Hi there 👋-->
