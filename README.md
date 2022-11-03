@@ -52,10 +52,16 @@ me.say_hi()
     <img src="https://img.icons8.com/color/48/000000/heroku.png"/ alt="Heroku">
 </p>
 
-## 💻 GitHub Pages Portfolio
+## 💻 Portfolio
 
 <p align="center">
     <a href="https://georgiosioannoucoder.github.io/">https://georgiosioannoucoder.github.io/</a>
+</p>
+
+## 💼 LinkedIn
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/georgiosioannoucoder/">https://www.linkedin.com/in/georgiosioannoucoder/</a>
 </p>
 
 <!--### Hi there 👋-->
