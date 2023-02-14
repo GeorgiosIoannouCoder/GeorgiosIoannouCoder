@@ -18,7 +18,7 @@ class GeorgiosIoannou():
         self.languages = ['en_US', 'el_GR']
 
     def say_hi(self):
-        print('Thank you very much for reading my itroduction! I will be more than happy to work on a project together!')
+        print('Thank you very much for reading my introduction! I will be more than happy to work on a project together!')
 
 
 me = GeorgiosIoannou()
@@ -34,7 +34,7 @@ me.say_hi()
     <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/ alt="Javascript">
     <img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/ alt="Visual Basic">
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/ alt="MySQL">
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png"/ alt="PostgreSQL">
+    <img src="https://img.icons8.com/color/48/null/postgreesql.png"/ alt="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
     <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/ alt="Anaconda">
     <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/ alt="Jupyter Notebook">
