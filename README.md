@@ -59,7 +59,7 @@ me.say_hi()
     <img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" alt="GitHub" width="43" height="43">
     <br />
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="43" height="43">
-    <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="Render" width="93" height="43">
+    <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="Render" width="153" height="43">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43">
 </p>
 
