@@ -38,7 +38,9 @@ me.say_hi()
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
     <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/ alt="Anaconda">
     <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/ alt="Jupyter Notebook">
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/ alt="Linux">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/ alt="Tensorflow" width="43" height="43">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/ alt="Pytorch" width="43" height="43">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/ alt="Linux" width="43" height="43">    
     <br />
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/ alt="HTML5">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/ alt="CSS3">
