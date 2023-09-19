@@ -67,13 +67,13 @@ me.say_hi()
 ## 💼 Portfolio
 
 <p align="center">
-    <a href="https://georgiosioannoucoder.github.io">https://georgiosioannoucoder.github.io/</a>
+    <a href="https://georgiosioannoucoder.github.io">https://georgiosioannoucoder.github.io</a>
 </p>
 
 ## 🗣 LinkedIn
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/georgiosioannoucoder">https://www.linkedin.com/in/georgiosioannoucoder/</a>
+    <a href="https://www.linkedin.com/in/georgiosioannoucoder">https://www.linkedin.com/in/georgiosioannoucoder</a>
 </p>
 
 <br />
