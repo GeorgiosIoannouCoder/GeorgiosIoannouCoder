@@ -13,6 +13,7 @@ class GeorgiosIoannou():
         self.roles = ['Data Sientist', 'Full-Stack Web App Development']
         self.student = True
         self.researcher = True
+        self.university = The City College Of New York
         self.currently_looking_for_internships = True
         self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming']
         self.languages = ['en_US', 'el_GR']
@@ -25,7 +26,7 @@ me = GeorgiosIoannou()
 me.say_hi()
 ```
 
-## 👨‍💻 Skills & Technologies
+## 🧰 Skills & Technologies
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="43" height="43">
@@ -63,17 +64,22 @@ me.say_hi()
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43">
 </p>
 
-## 💻 Portfolio
+## 💼 Portfolio
 
 <p align="center">
     <a href="https://georgiosioannoucoder.github.io/">https://georgiosioannoucoder.github.io/</a>
 </p>
 
-## 💼 LinkedIn
+## 🗣 LinkedIn
 
 <p align="center">
     <a href="https://www.linkedin.com/in/georgiosioannoucoder/">https://www.linkedin.com/in/georgiosioannoucoder/</a>
 </p>
+
+<br />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgiosIoannouCoder&show=reviews,discussions_started,discussions_answered&hide_rank=true&show_icons=true&theme=transparent)](https://github.com/GeorgiosIoannouCoder)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiosIoannouCoder&hide_progress=true&theme=transparent)](https://github.com/GeorgiosIoannouCoder)
 
 <!--### Hi there 👋-->
 
