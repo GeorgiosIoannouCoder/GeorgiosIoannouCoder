@@ -78,8 +78,7 @@ me.say_hi()
 
 <br />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgiosIoannouCoder&show=reviews,discussions_started,discussions_answered&hide_rank=true&show_icons=true&theme=transparent)](https://github.com/GeorgiosIoannouCoder)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiosIoannouCoder&hide_progress=true&theme=transparent)](https://github.com/GeorgiosIoannouCoder)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiosIoannouCoder&hide_progress=true&theme=default)](https://github.com/GeorgiosIoannouCoder)
 
 <!--### Hi there 👋-->
 
