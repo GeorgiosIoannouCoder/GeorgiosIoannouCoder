@@ -56,7 +56,7 @@ me.say_hi()
     <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
     <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
     <br />
-     <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
+    <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
     <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43"></a>
     <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="43" height="43"/></a>
     <br />
