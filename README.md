@@ -29,39 +29,43 @@ me.say_hi()
 ## 🧰 Skills & Technologies
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="43" height="43">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="43" height="43">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="43" height="43">
-    <img src="https://vectorwiki.com/images/G9sE3__javascript.svg" alt="Javascript" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="Visual Basic" width="43" height="43">
+    <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="43" height="43"></a>
+    <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="43" height="43"></a>
+    <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="43" height="43"></a>
+    <a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="43" height="43"></a>
+    <a href="https://www.javascript.com/"><img src="https://vectorwiki.com/images/G9sE3__javascript.svg" alt="Javascript" width="43" height="43"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="Visual Basic" width="43" height="43"></a>
     <br />
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="43" height="43"/>
+    <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="43" height="43"></a>
+    <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="43" height="43"></a>
+    <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="43" height="43"></a>
+    <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="43" height="43"></a>
+    <a href="https://pytorch-geometric.readthedocs.io/en/latest/"><img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="Pytorch Geometric" width="43" height="43"></a>
+    <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="Keras" width="43" height="43"></a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
+    <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
+    <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
+    <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
     <br />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="43" height="43">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="43" height="43"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="43" height="43"></a>
+    <a href="https://nodejs.org/en"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="90" height="50"></a>
+    <a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="43" height="43"></a>
+    <a href="https://getbootstrap.com/"><img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="43" height="43"></a>
+    <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="43" height="43"></a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
+    <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
     <br />
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="90" height="50">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="43" height="43">
-    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="43" height="43">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43">
+     <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
+    <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43"></a>
+    <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="43" height="43"/></a>
     <br />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="43" height="43">
-    <img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" alt="GitHub" width="43" height="43">
+    <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="43" height="43"></a>
+    <a href="https://github.com/"><img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" alt="GitHub" width="43" height="43"></a>
     <br />
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="43" height="43">
-    <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="Render" width="153" height="43">
-    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43">
+    <a href="https://www.heroku.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="43" height="43"></a>
+    <a href="https://render.com/"><img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="Render" width="153" height="43"></a>
+    <a href="https://www.digitalocean.com/"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43"></a>
 </p>
 
 ## 💼 Portfolio
