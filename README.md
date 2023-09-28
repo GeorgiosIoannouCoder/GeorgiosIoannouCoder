@@ -67,6 +67,7 @@ me.say_hi()
     <a href="https://www.heroku.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="43" height="43"></a>
     <a href="https://render.com/"><img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" alt="Render" width="153" height="43"></a>
     <a href="https://www.digitalocean.com/"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43"></a>
+    <a href="https://www.namecheap.com/"><img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/n/namecheap.svg" alt="Namecheap" width="53" height="43"></a>
 </p>
 
 ## 💼 Portfolio
