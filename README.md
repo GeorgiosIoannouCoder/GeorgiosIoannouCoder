@@ -34,6 +34,7 @@ me.say_hi()
     <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="43" height="43"></a>
     <a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="43" height="43"></a>
     <a href="https://www.javascript.com/"><img src="https://vectorwiki.com/images/G9sE3__javascript.svg" alt="Javascript" width="43" height="43"></a>
+     <a href="https://docs.racket-lang.org/r5rs/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lambda_lc.svg" alt="Scheme" width="43" height="43"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="Visual Basic" width="43" height="43"></a>
     <br />
     <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="43" height="43"></a>
