@@ -34,7 +34,7 @@ me.say_hi()
     <a href="https://en.cppreference.com/w/c/language"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="43" height="43"></a>
     <a href="https://www.java.com/en/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="43" height="43"></a>
     <a href="https://www.javascript.com/"><img src="https://vectorwiki.com/images/G9sE3__javascript.svg" alt="Javascript" width="43" height="43"></a>
-     <a href="https://docs.racket-lang.org/r5rs/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lambda_lc.svg" alt="Scheme" width="43" height="43"></a>
+    <a href="https://docs.racket-lang.org/r5rs/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lambda_lc.svg" alt="Scheme" width="43" height="43"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="Visual Basic" width="43" height="43"></a>
     <br />
     <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="43" height="43"></a>
@@ -46,6 +46,7 @@ me.say_hi()
     <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
     <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
+    <a href="https://qiskit.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="43" height="43"></a>
     <a href="https://www.kaggle.com/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="43" height="43"></a>
     <a href="https://colab.google/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="41" height="43"></a>
     <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
