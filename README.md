@@ -42,6 +42,7 @@ me.say_hi()
     <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="43" height="43"></a>
     <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="43" height="43"></a>
     <a href="https://pytorch-geometric.readthedocs.io/en/latest/"><img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="Pytorch Geometric" width="43" height="43"></a>
+    <a href="https://librosa.org/doc/latest/index.html"><img src="https://avatars.githubusercontent.com/u/18124827?s=200&v=4" alt="Librosa" width="43" height="43"></a>
     <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="Keras" width="43" height="43"></a>
     <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
     <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
