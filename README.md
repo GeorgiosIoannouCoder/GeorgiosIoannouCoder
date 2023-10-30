@@ -49,6 +49,7 @@ me.say_hi()
     <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
     <a href="https://qiskit.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="43" height="43"></a>
+    <a href="https://huggingface.co/"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" width="43" height="43"></a>
     <a href="https://www.kaggle.com/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="43" height="43"></a>
     <a href="https://colab.google/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="41" height="43"></a>
     <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
