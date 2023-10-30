@@ -45,12 +45,14 @@ me.say_hi()
     <a href="https://librosa.org/doc/latest/index.html"><img src="https://avatars.githubusercontent.com/u/18124827?s=200&v=4" alt="Librosa" width="43" height="43"></a>
     <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="Keras" width="43" height="43"></a>
     <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
+    <a href="https://skorch.readthedocs.io/en/stable/"><img src="https://avatars.githubusercontent.com/u/47992320?s=200&v=4" alt="Skorch" width="43" height="43"></a>
     <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
     <a href="https://qiskit.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="43" height="43"></a>
     <a href="https://www.kaggle.com/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="43" height="43"></a>
     <a href="https://colab.google/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="41" height="43"></a>
     <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
+    <a href="https://www.nersc.gov/"><img src="https://yt3.googleusercontent.com/ytc/APkrFKYK3y75KOUhzTAxFHTe3EAY5FLlXQfMYQdnce9M=s900-c-k-c0x00ffffff-no-rj" alt="NERSC" width="43" height="43"></a>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="43" height="43"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="43" height="43"></a>
@@ -61,6 +63,9 @@ me.say_hi()
     <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
     <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
     <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="43" height="43"></a>
+    <a href="https://cloudinary.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/cloudinary-icon.svg" alt="Cloudinary" width="43" height="43"></a>
+    <a href="https://www.brevo.com/"><img src="https://cdn.shopify.com/app-store/listing_images/79794a9fb07b6edc28ca3ce5ff5fef4a/icon/CMDSgsTx-f4CEAE=.png" alt="Brevo" width="43" height="43"></a>
+    <a href="https://www.globus.org/"><img src="https://www.globus.org/assets/images/logo_globus-solid.svg" alt="Globus" width="53" height="53"></a>
     <br />
     <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
     <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43"></a>
@@ -72,6 +77,7 @@ me.say_hi()
     <a href="https://www.heroku.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="43" height="43"></a>
     <a href="https://render.com/"><img src="https://redwoodjs.com/images/3p-logos/render.svg" alt="Render" width="43" height="43"></a>
     <a href="https://www.digitalocean.com/"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" width="43" height="43"></a>
+    <a href="https://www.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/fdbaaa2d5f994288cf998080060c578417f0071f/icons/pythonanywhere.svg" alt="pythonanywhere" width="43" height="43"></a>
     <a href="https://www.namecheap.com/"><img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/n/namecheap.svg" alt="Namecheap" width="53" height="43"></a>
 </p>
 
