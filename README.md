@@ -13,7 +13,7 @@ class GeorgiosIoannou():
         self.roles = ['Data Sientist', 'Full-Stack Web App Development']
         self.student = True
         self.researcher = True
-        self.university = The City College Of New York
+        self.university = 'The City College Of New York'
         self.currently_looking_for_internships = True
         self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming']
         self.languages = ['en_US', 'el_GR']
