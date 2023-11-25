@@ -53,6 +53,7 @@ me.say_hi()
     <a href="https://www.kaggle.com/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="43" height="43"></a>
     <a href="https://colab.google/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="41" height="43"></a>
     <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="43" height="43"></a>
+    <a href="https://slurm.schedmd.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/1180px-Slurm_logo.svg.png?20170928000248" alt="Slurm" width="43" height="43"></a>
     <a href="https://www.nersc.gov/"><img src="https://yt3.googleusercontent.com/ytc/APkrFKYK3y75KOUhzTAxFHTe3EAY5FLlXQfMYQdnce9M=s900-c-k-c0x00ffffff-no-rj" alt="NERSC" width="43" height="43"></a>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="43" height="43"></a>
