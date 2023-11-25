@@ -46,6 +46,7 @@ me.say_hi()
     <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="Keras" width="43" height="43"></a>
     <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="53" height="53"></a>
     <a href="https://skorch.readthedocs.io/en/stable/"><img src="https://avatars.githubusercontent.com/u/47992320?s=200&v=4" alt="Skorch" width="43" height="43"></a>
+    <br />
     <a href="https://numpy.org/"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="43" height="43"></a>
     <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" alt="Pandas" width="43" height="43"></a>
     <a href="https://qiskit.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="43" height="43"></a>
