@@ -20,6 +20,7 @@ class GeorgiosIoannou():
 
     def say_hi(self):
         print('Thank you very much for reading my introduction! I will be more than happy to work on a project together!')
+        print('Contact me via LinkedIn or my Portfolio!')
 
 
 me = GeorgiosIoannou()
@@ -88,7 +89,7 @@ me.say_hi()
 ## 💼 Portfolio
 
 <p align="center">
-    <a href="https://georgiosioannoucoder.github.io">https://georgiosioannoucoder.github.io</a>
+    <a href="https://georgiosioannou.com">https://georgiosioannou.com</a>
 </p>
 
 ## 🗣 LinkedIn
