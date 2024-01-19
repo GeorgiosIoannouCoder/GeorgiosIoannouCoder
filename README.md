@@ -10,13 +10,16 @@ class GeorgiosIoannou():
     def __init__(self):
         self.first_name = 'Georgios'
         self.last_name = 'Ioannou'
-        self.roles = ['Data Sientist', 'Full-Stack Web App Development']
+        self.roles = ['Data Science', 'Full-Stack Web App Development']
         self.student = True
         self.researcher = True
         self.university = 'The City College Of New York'
+        self.major = 'Computer Science'
+        self.minor = 'Mathematics'
         self.currently_looking_for_internships = True
-        self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming']
+        self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming', 'Dancing']
         self.languages = ['en_US', 'el_GR']
+        self.fun_fact = '3 dance mass participation Guinness World Records'
 
     def say_hi(self):
         print('Thank you very much for reading my introduction! I will be more than happy to work on a project together!')
