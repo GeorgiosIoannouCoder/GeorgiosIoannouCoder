@@ -19,6 +19,7 @@ class GeorgiosIoannou():
         self.currently_looking_for_internships = True
         self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming', 'Dancing']
         self.languages = ['en_US', 'el_GR']
+        self.goal = 'Make the world a safer place through code'
         self.fun_fact = '3 dancing mass participation Guinness World Records'
 
     def say_hi(self):
