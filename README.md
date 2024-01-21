@@ -19,7 +19,7 @@ class GeorgiosIoannou():
         self.currently_looking_for_internships = True
         self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming', 'Dancing']
         self.languages = ['en_US', 'el_GR']
-        self.fun_fact = '3 dance mass participation Guinness World Records'
+        self.fun_fact = '3 dancing mass participation Guinness World Records'
 
     def say_hi(self):
         print('Thank you very much for reading my introduction! I will be more than happy to work on a project together!')
