@@ -104,8 +104,8 @@ me.say_hi()
 
 <br />
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GeorgiosIoannouCoder)](https://github.com/GeorgiosIoannouCoder)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiosIoannouCoder&hide_progress=true&langs_count=8)](https://github.com/GeorgiosIoannouCoder)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GeorgiosIoannouCoder)](https://github.com/GeorgiosIoannouCoder)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgiosIoannouCoder&show=reviews,discussions_started,discussions_answered&hide_rank=true&show_icons=true)](https://github.com/GeorgiosIoannouCoder)
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgiosIoannouCoder)](https://github.com/GeorgiosIoannouCoder)
 
