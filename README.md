@@ -90,7 +90,7 @@ me.say_hi()
     <a href="https://www.namecheap.com/"><img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/n/namecheap.svg" alt="Namecheap" width="53" height="43"></a>
 </p>
 
-## 💼 Portfolio 
+## 💼 Portfolio
 
 <p align="center">
     <a href="https://georgiosioannou.com">https://georgiosioannou.com</a>
