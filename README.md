@@ -94,13 +94,13 @@ me.say_hi()
 ## 💼 Portfolio
 
 <p align="center">
-    <a href="https://georgiosioannou.com">https://georgiosioannou.com</a>
+    <a href="https://georgiosioannou.com">georgiosioannou.com</a>
 </p>
 
 ## 🗣 LinkedIn
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/georgiosioannoucoder">https://www.linkedin.com/in/georgiosioannoucoder</a>
+    <a href="https://www.linkedin.com/in/georgiosioannoucoder">linkedin.com/in/georgiosioannoucoder</a>
 </p>
 
 <br />
