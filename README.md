@@ -97,6 +97,12 @@ me.say_hi()
     <a href="https://georgiosioannou.com">georgiosioannou.com</a>
 </p>
 
+## 🤗 Hugging Face
+
+<p align="center">
+    <a href="https://huggingface.co/GeorgiosIoannouCoder">huggingface.co/GeorgiosIoannouCoder</a>
+</p>
+
 ## 🗣 LinkedIn
 
 <p align="center">
