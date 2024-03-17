@@ -11,7 +11,7 @@ class GeorgiosIoannou():
         self.first_name = 'Georgios'
         self.last_name = 'Ioannou'
         self.roles = ['Data Science', 'Full-Stack Web App Development']
-        self.student = True
+        self.undergraduate_student = True
         self.researcher = True
         self.university = 'The City College Of New York'
         self.major = 'Computer Science'
