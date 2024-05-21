@@ -72,7 +72,8 @@ me.say_hi()
     <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="43" height="43"></a>
     <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
     <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
-    <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="43" height="43"></a>
+    <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="43" height="43"></a>
+    <br />
     <a href="https://cloudinary.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/cloudinary-icon.svg" alt="Cloudinary" width="43" height="43"></a>
     <a href="https://www.brevo.com/"><img src="https://cdn.shopify.com/app-store/listing_images/79794a9fb07b6edc28ca3ce5ff5fef4a/icon/CMDSgsTx-f4CEAE=.png" alt="Brevo" width="43" height="43"></a>
     <a href="https://www.globus.org/"><img src="https://www.globus.org/assets/images/logo_globus-solid.svg" alt="Globus" width="53" height="53"></a>
@@ -80,6 +81,8 @@ me.say_hi()
     <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="43" height="43"></a>
     <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="43" height="43"></a>
     <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="43" height="43"/></a>
+    <br />
+    <a href="https://wordpress.com/"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="43" height="43"/></a>
     <br />
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="47" height="47"></a>
     <a href="https://github.com/"><img src="https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg" alt="GitHub" width="43" height="43"></a>
