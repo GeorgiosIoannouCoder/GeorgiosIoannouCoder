@@ -11,11 +11,13 @@ class GeorgiosIoannou():
         self.first_name = 'Georgios'
         self.last_name = 'Ioannou'
         self.roles = ['Data Science', 'Full-Stack Web App Development']
-        self.undergraduate_student = True
+        self.graduate_student = True
         self.researcher = True
-        self.university = 'The City College Of New York'
-        self.major = 'Computer Science'
-        self.minor = 'Mathematics'
+        self.undergraduate_university = 'The City College Of New York'
+        self.undergraduate_major = 'Computer Science'
+        self.undergraduate_minor = 'Mathematics'
+        self.graduate_university = 'NYU Center for Data Science'
+        self.graduate_major = 'Data Science'
         self.currently_looking_for_internships = True
         self.hobbies = ['Football', 'Hiking', 'Travelling', 'Gaming', 'Dancing']
         self.languages = ['en_US', 'el_GR']
