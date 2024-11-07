@@ -73,7 +73,7 @@ me.say_hi()
     <a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="43" height="43"></a>
     <a href="https://getbootstrap.com/"><img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="Bootstrap" width="47" height="47"></a>
     <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="43" height="43"></a>
-    <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="43" height="43"></a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="Flask" width="43" height="43"></a>
     <a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/streamlit.svg" alt="Streamlit" width="43" height="43"></a>
     <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="43" height="43"></a>
     <br />
