@@ -1,4 +1,4 @@
-<img src="https://github.com/GeorgiosIoannouCoder/GeorgiosIoannouCoderPublic/blob/main/Georgios_Ioannou_README.gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1000&color=777777&width=900&lines=Welcome+I'm+Georgios+Ioannou!%F0%9F%91%8B;I'm+an+aspiring+data+scientist+who+also+%E2%9D%A4%EF%B8%8F+full-stack+web+development!;Currently+pursuing+a+MS+degree+in+Data+Science+at+NYU+CDS...;With+main+goal+to+make+the+%F0%9F%8C%8E+a+safer+place+for+everyone+through+code!)](https://git.io/typing-svg)
 
 ## A bit more about me:
 
